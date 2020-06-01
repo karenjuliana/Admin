@@ -1,0 +1,27 @@
+ {
+
+   
+    "dominio":{
+    "nombre": "pollito.com", 
+        "estado": "activo", 
+        "num_cuentas": "20",
+         "stoked": true,
+          "cuentas_activas": "5"
+     },
+     "dominio1": {
+         "nombre": "gusanito.com", 
+        "estado": "suspend by pay",
+         "num_cuentas": "6",
+          "stoked": true, 
+          "cuentas_activas": "0"
+     },
+      "dominio2": {
+        "nombre": "gatito.com", 
+        "estado": "deleted", 
+        "num_cuentas": "10", 
+        "stoked": true,
+         "cuentas_activas": "0"
+     }
+    }
+
+
